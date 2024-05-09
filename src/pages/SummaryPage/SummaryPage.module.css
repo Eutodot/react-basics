@@ -1,0 +1,15 @@
+body {
+  font-family: 'Hanken Grotesk', sans-serif;
+}
+
+
+.summaryWrapper {
+  max-width: 600px;
+  background-color: white;
+  border-radius: 25px;
+  display: flex;
+  overflow: hidden;
+}
+
+
+

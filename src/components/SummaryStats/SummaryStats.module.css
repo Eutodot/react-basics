@@ -1,0 +1,26 @@
+.summaryContainer {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 25px;
+    padding: 30px;
+  }
+  
+  .summaryContainer .header {
+    color: hsl(224, 30%, 27%);
+  }
+  
+  .specificScoreBoxContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .continueButton {
+    background-color: hsl(224, 30%, 27%);
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    font-size: 14px;
+  }
